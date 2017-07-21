@@ -1,31 +1,31 @@
-<h1><img src="resources/icon5.png"/><em>Visual C++ Redistributable</em> Archive &nbsp; <a href="https://paypal.me/e1adkarak0"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png"></a></h1>
+<img height="14" width="14" src="resources/icon5.png"/><em>Visual C++ Redistributable</em> Archive &nbsp; <a href="https://paypal.me/e1adkarak0"><img height="14" width="14" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png"></a>
 
 <ul>
-<li><h4><img src="resources/icon6.png"/> <em>All In Once Place</em>, you don't need to look for the dependencies in Google and deal with downloading older versions from Microsoft, ever again.</h4></li>
-<li><h4><img src="resources/icon6.png"/> <em>Flat Packages</em>, meaning the setups are not closed and compressed, and you can browse the structure even before you've instealled anything, or simply copy the files, without the need to install and scrape/look for all of the files in your computer.</h4></li>
-<li><h4><img src="resources/icon6.png"/> <em>Faster To Install</em>, since I've stripped all the $hit wrapping around the files, but kept the archive fully functional, there is no "uncompression to temporary folder" payload.</h4></li>
-<li><h4><img src="resources/icon6.png"/> <em>No More Looking In Microsoft For Downloads + Older Archives</em>, you can find most of the VC versions for the x86/x64/arm architectures, even ones that are no longer available or replaced by other versions <br/>and it is super easy to locate it. Plus, there is no longer the "what VC version is 20xx" means, each archive-includes both the official "VC-version", <br/>the full version, and the visual-studio match-year</h4></li>
+<li><img height="14" width="14" src="resources/icon6.png"/> <em>All In Once Place</em>, you don't need to look for the dependencies in Google and deal with downloading older versions from Microsoft, ever again.</li>
+<li><img height="14" width="14" src="resources/icon6.png"/> <em>Flat Packages</em>, meaning the setups are not closed and compressed, and you can browse the structure even before you've instealled anything, or simply copy the files, without the need to install and scrape/look for all of the files in your computer.</li>
+<li><img height="14" width="14" src="resources/icon6.png"/> <em>Faster To Install</em>, since I've stripped all the $hit wrapping around the files, but kept the archive fully functional, there is no "uncompression to temporary folder" payload.</li>
+<li><img height="14" width="14" src="resources/icon6.png"/> <em>No More Looking In Microsoft For Downloads + Older Archives</em>, you can find most of the VC versions for the x86/x64/arm architectures, even ones that are no longer available or replaced by other versions <br/>and it is super easy to locate it. Plus, there is no longer the "what VC version is 20xx" means, each archive-includes both the official "VC-version", <br/>the full version, and the visual-studio match-year</li>
 </ul>
 
 <hr/>
 <br/>
 
-<h2>Download/Usage</h2>
+Download/Usage
 
 Files are located at <a href="archives/">archives/</a>.
 
-Setup packages (<img src="resources/icon_setup.png"/>&nbsp;old setups, newer single-archive <img src="resources/icon_msi.png"/>&nbsp;MSI and <img src="resources/icon_wix.png"/>&nbsp;Wix) were flattened as much as possible, and compressed with <img src="resources/icon_7z.png"/>&nbsp;7zip, <em>for storage sake..</em>.
+Setup packages (<img height="14" width="14" src="resources/icon_setup.png"/>&nbsp;old setups, newer single-archive <img height="14" width="14" src="resources/icon_msi.png"/>&nbsp;MSI and <img height="14" width="14" src="resources/icon_wix.png"/>&nbsp;Wix) were flattened as much as possible, and compressed with <img height="14" width="14" src="resources/icon_7z.png"/>&nbsp;7zip, <em>for storage sake..</em>.
 
 Once you'll download your desired version of VC,
 use 7zip to extract the content into an empty folder,
-you may run <img src="resources/icon_msi.png"/>&nbsp;MSI,
+you may run <img height="14" width="14" src="resources/icon_msi.png"/>&nbsp;MSI,
 which is essentially a "copy-to.." script.
 
 Since all the files are located in the same folder,
 and do not required any extraction to temporary folder,
 the installation itself will finish after few seconds.
 
-If you've noticed that some VC-archives may have, in additional to the <img src="resources/icon_msi.png"/>&nbsp;MSI installer, also, a classic <img src="resources/icon_installer1.png"/>&nbsp;<code>install.exe</code> file or <img src="resources/icon_installer2.png"/>&nbsp;<code>setup.exe</code> file, running those instead of the <img src="resources/icon_msi.png"/>&nbsp;MSI one, <strong>should</strong> give you the same end result, installing the <em>VC runtime dlls</em> on your PC, but with the "additional value" of some nice UI, and maybe minimum-requirements pre-check, so if you want to avoid those, stick with the <img src="resources/icon_msi.png"/>&nbsp;MSI file.
+If you've noticed that some VC-archives may have, in additional to the <img height="14" width="14" src="resources/icon_msi.png"/>&nbsp;MSI installer, also, a classic <img height="14" width="14" src="resources/icon_installer1.png"/>&nbsp;<code>install.exe</code> file or <img height="14" width="14" src="resources/icon_installer2.png"/>&nbsp;<code>setup.exe</code> file, running those instead of the <img height="14" width="14" src="resources/icon_msi.png"/>&nbsp;MSI one, <strong>should</strong> give you the same end result, installing the <em>VC runtime dlls</em> on your PC, but with the "additional value" of some nice UI, and maybe minimum-requirements pre-check, so if you want to avoid those, stick with the <img height="14" width="14" src="resources/icon_msi.png"/>&nbsp;MSI file.
 
 You don't have to install anything, on most of the packages you can simply grab the VC DLLs, and copy them to the same folder of your application, this is probably a more easy way to distribute an application along with the VC dependencies it needs.
 
@@ -56,4 +56,4 @@ Keywords: <code>vcredist,vcredist_x86,vcredist_x64,x86,x32,64,Wix,extract,MSI,CA
 
 <br/>
 
-<strong><em>If you've found it useful, and it saved you time and money, consider a small donation <a href="https://paypal.me/e1adkarak0"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png"></a> as small token of appreciation, for the amount of time and effort I've put into this project, plus you'll get a free t-shirt too :]</em></strong>
+<strong><em>If you've found it useful, and it saved you time and money, consider a small donation <a href="https://paypal.me/e1adkarak0"><img height="14" width="14" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png"></a> as small token of appreciation, for the amount of time and effort I've put into this project, plus you'll get a free t-shirt too :]</em></strong>
