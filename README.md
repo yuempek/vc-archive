@@ -52,6 +52,24 @@ vc15(2017) is really just a fancy vc14(2015) update (not upgrade!), just like SP
 
 <hr/>
 
+F.Y.I.
+<pre>
+MSVC++ 4.x  _MSC_VER == 1000
+MSVC++ 5.0  _MSC_VER == 1100
+MSVC++ 6.0  _MSC_VER == 1200
+MSVC++ 7.0  _MSC_VER == 1300
+MSVC++ 7.1  _MSC_VER == 1310 (Visual Studio 2003)
+MSVC++ 8.0  _MSC_VER == 1400 (Visual Studio 2005)
+MSVC++ 9.0  _MSC_VER == 1500 (Visual Studio 2008)
+MSVC++ 10.0 _MSC_VER == 1600 (Visual Studio 2010)
+MSVC++ 11.0 _MSC_VER == 1700 (Visual Studio 2012)
+MSVC++ 12.0 _MSC_VER == 1800 (Visual Studio 2013)
+MSVC++ 14.0 _MSC_VER == 1900 (Visual Studio 2015)
+MSVC++ 14.1 _MSC_VER == 1910 (Visual Studio 2017)
+</pre>
+
+<hr/>
+
 Keywords: <code>vcredist,vcredist_x86,vcredist_x64,x86,x32,64,Wix,extract,MSI,CAB,C Runtime,CRT,Standard C++,MFC,C++ AMP,OpenMP,Microsoft Visual C++ Redistributable 2015,Microsoft Visual C++ Redistributable 2013,Microsoft Visual C++ Redistributable 2012,Microsoft Visual C++ Redistributable 2010,Microsoft Visual C++ Redistributable 2008,Microsoft Visual C++ Redistributable 2005,32-bit,64-bit,Standalone Offline Installer,ddl,download,binary,system</code>.
 
 <br/>
