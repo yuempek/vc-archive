@@ -1,4 +1,4 @@
-<img height="14" width="14" src="resources/icon5.png"/><em>Visual C++ Redistributable</em> Archive &nbsp; <a href="https://paypal.me/e1adkarak0"><img height="14" width="14" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png"></a>
+<img height="14" width="14" src="resources/icon5.png"/><em>Visual C++ Redistributable</em> Archive &nbsp; <a href="https://paypal.me/e1adkarak0"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png"></a>
 
 <ul>
 <li><img height="14" width="14" src="resources/icon6.png"/> <em>All In Once Place</em>, you don't need to look for the dependencies in Google and deal with downloading older versions from Microsoft, ever again.</li>
@@ -56,4 +56,4 @@ Keywords: <code>vcredist,vcredist_x86,vcredist_x64,x86,x32,64,Wix,extract,MSI,CA
 
 <br/>
 
-<strong><em>If you've found it useful, and it saved you time and money, consider a small donation <a href="https://paypal.me/e1adkarak0"><img height="14" width="14" src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png"></a> as small token of appreciation, for the amount of time and effort I've put into this project, plus you'll get a free t-shirt too :]</em></strong>
+<strong><em>If you've found it useful, and it saved you time and money, consider a small donation <a href="https://paypal.me/e1adkarak0"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png"></a> as small token of appreciation, for the amount of time and effort I've put into this project, plus you'll get a free t-shirt too :]</em></strong>
